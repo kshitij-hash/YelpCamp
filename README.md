@@ -14,7 +14,9 @@ Full stack project made using:
 - cookies & sessions
 
 ## Contributing
+
 ### Clone the repo
+
 ```bash
 git clone https://github.com/kshitij-hash/YelpCamp
 cd YelpCamp
@@ -25,6 +27,7 @@ cd YelpCamp
 ```bash
 npm install
 ```
+
 ### Run the project
 
 ```bash
