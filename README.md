@@ -13,6 +13,7 @@ Full stack project made using:
 - multiple image uploads
 - cookies & sessions
 
+## Contributing
 ### Clone the repo
 ```bash
 git clone https://github.com/kshitij-hash/YelpCamp
